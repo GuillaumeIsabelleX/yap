@@ -7,7 +7,7 @@
 
 The purposes of yap are :
 * To be able to take the results of a BMLT root server and play it back through the telephone.  
-* To be able to set up routing rules for zip codes and helpline numbers with optional extension dialing by phone.
+* To be able to set up routing rules for zip codes and helpline numbers with optional extension dialing.
 
 We are taking advantage of using Twilio which essentially handles all the VOIP parts.  You provision a number, set up an application, and point it your PHP server.
 
