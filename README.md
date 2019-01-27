@@ -1,9 +1,13 @@
 [![Build Status](https://travis-ci.org/bmlt-enabled/yap.svg?branch=master)](https://travis-ci.org/bmlt-enabled/yap)
+
+# JG Observation #
+* ....
+
 # yap
 
 The purposes of yap are :
 * To be able to take the results of a BMLT root server and play it back through the telephone.  
-* To be able to set up routing rules for zip codes and helpline numbers with optional extension dialing.
+* To be able to set up routing rules for zip codes and helpline numbers with optional extension dialing by phone.
 
 We are taking advantage of using Twilio which essentially handles all the VOIP parts.  You provision a number, set up an application, and point it your PHP server.
 
